@@ -1,6 +1,6 @@
 .player__card {
   background-color: #ebedef;
-  box-shadow: 0 0 10px #ddd;
+  box-shadow: 0 0 10px #f3eded;
   border-radius: 5px;
   padding: 20px;
 }
@@ -10,8 +10,8 @@
   margin-top: 10px;
 }
 .img {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   border: 2px solid #647570;
   display: block;
