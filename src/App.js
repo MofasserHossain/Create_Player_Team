@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import playerData from './fakeData/fakeData.json';
-import Header from './Header/Header';
-import Player from './Player/Player';
-import Team from './Team/Team';
+import Header from './components/Header/Header';
+import Player from './components/Player/Player';
+import Team from './components/Team/Team';
+
 function App() {
   const [players, setPlayers] = useState([]);
   const [addPlayer, setAddPlayer] = useState([]);
