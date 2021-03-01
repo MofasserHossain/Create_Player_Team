@@ -1,0 +1,51 @@
+.player__card {
+  background-color: #ebedef;
+  box-shadow: 0 0 10px #ddd;
+  border-radius: 5px;
+  padding: 20px;
+}
+.player__card h3 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #647570;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.position {
+  margin-top: -6px;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+}
+.player__card p {
+  margin-left: 2px;
+  font-size: 18px;
+}
+
+.player__card p span {
+  font-weight: 600;
+}
+.flag {
+  margin-top: 10px;
+}
+.flag img {
+  width: 20px;
+  border-radius: 3px;
+  margin: 0 5px;
+}
+
+.addTeam {
+  width: 100%;
+  cursor: pointer;
+}
+.addTeam.disable {
+  pointer-events: none;
+  background-color: #5491ee;
+}

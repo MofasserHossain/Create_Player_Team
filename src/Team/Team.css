@@ -1,0 +1,29 @@
+.team__card {
+  background-color: #ebedef;
+  box-shadow: 0 0 10px #f3eded;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
+
+.team__card h3 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.teamMember__list {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 5px;
+}
+
+.total span {
+  font-size: 22px;
+}

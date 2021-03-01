@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "playerName": "Leonel Messi",
+    "salary": 26,
+    "country": "Argentina",
+    "position": "Forward",
+    "img": "https://i.ibb.co/GdB8CkT/lionel-messi.jpg",
+    "flag": "https://restcountries.eu/data/arg.svg"
+  },
+  {
+    "id": 2,
+    "playerName": "Cristiano Ronaldo",
+    "salary": 31,
+    "country": "Portugal",
+    "position": "Forward",
+    "img": "https://i.ibb.co/QvDrvw7/Cristiano-Ronaldo.jpg",
+    "flag": "https://restcountries.eu/data/prt.svg"
+  },
+  {
+    "id": 3,
+    "playerName": "Sergio Ramos",
+    "salary": 15,
+    "country": "Spain",
+    "position": "Defender",
+    "img": "https://i.ibb.co/0tRpwWc/ramos.jpg",
+    "flag": "https://restcountries.eu/data/esp.svg"
+  },
+  {
+    "id": 4,
+    "playerName": "Neymar",
+    "salary": 36,
+    "country": "Brazil",
+    "position": "Forward",
+    "img": "https://i.ibb.co/FD8S6cq/naymer.jpg",
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "id": 5,
+    "playerName": "Marcelo Vieira",
+    "salary": 15,
+    "country": "Brazil",
+    "position": "Defender",
+    "img": "https://i.ibb.co/TvMWx2T/marcelo.jpg",
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "id": 6,
+    "playerName": "Manuel Neuer",
+    "salary": 7.6,
+    "country": "Germany",
+    "position": "Goalkeeper",
+    "img": "https://i.ibb.co/cyZ25fW/aligonar.jpg",
+    "flag": "https://restcountries.eu/data/deu.svg"
+  },
+  {
+    "id": 7,
+    "playerName": "Alisson Becker",
+    "salary": 10,
+    "country": "Brazil",
+    "position": "Goalkeeper",
+    "img": "https://i.ibb.co/kXxdKkw/alisson.jpg",
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "id": 8,
+    "playerName": "Robert Lewandowski",
+    "salary": 20,
+    "country": "Poland",
+    "position": "Forward",
+    "img": "https://i.ibb.co/8x1jBxn/labondosci.jpg",
+    "flag": "https://restcountries.eu/data/pol.svg"
+  },
+  {
+    "id": 9,
+    "playerName": "Paul Pogba",
+    "salary": 14,
+    "country": "France",
+    "position": "Midfielder",
+    "img": "https://i.ibb.co/K7chjc2/pogba.jpg",
+    "flag": "https://restcountries.eu/data/fra.svg"
+  },
+  {
+    "id": 10,
+    "playerName": "Luka Modrić",
+    "salary": 20,
+    "country": "Croatia",
+    "position": "Midfielder",
+    "img": "https://i.ibb.co/RY4tk1d/Luka-modric.jpg",
+    "flag": "https://restcountries.eu/data/bih.svg"
+  },
+  {
+    "id": 11,
+    "playerName": "Andrés Iniesta",
+    "salary": 24,
+    "country": "Spain",
+    "position": "Midfielder",
+    "img": "https://i.ibb.co/kh33HrF/Andres-iniesta.jpg",
+    "flag": "https://restcountries.eu/data/esp.svg"
+  },
+  {
+    "id": 12,
+    "playerName": "Kylian Mbappé",
+    "salary": 25,
+    "country": "France",
+    "position": "Forward",
+    "img": "https://i.ibb.co/mhfgmgv/mbappe.jpg",
+    "flag": "https://restcountries.eu/data/fra.svg"
+  },
+  {
+    "id": 13,
+    "playerName": "Antoine Griezmann",
+    "salary": 26,
+    "country": "France",
+    "position": "Forward",
+    "img": "https://i.ibb.co/BTrMPLq/Antoine-griezmann.jpg",
+    "flag": "https://restcountries.eu/data/fra.svg"
+  },
+  {
+    "id": 14,
+    "playerName": "Gerard Piqué",
+    "salary": 5.8,
+    "country": "Spain",
+    "position": "Central Defender",
+    "img": "https://i.ibb.co/P6KX8Ch/Gerard-Pique.jpg",
+    "flag": "https://restcountries.eu/data/esp.svg"
+  },
+  {
+    "id": 15,
+    "playerName": "Mohamed Salah",
+    "salary": 15,
+    "country": "Egypt",
+    "position": "Forward",
+    "img": "https://i.ibb.co/fkJqrcB/Atalayar-Mohamed-Salah.jpg",
+    "flag": "https://restcountries.eu/data/egy.svg"
+  },
+  {
+    "id": 16,
+    "playerName": "David Luiz",
+    "salary": 4.4,
+    "country": "Brazil",
+    "position": "Defender",
+    "img": "https://i.ibb.co/4WR8JcR/luice.jpg",
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "id": 17,
+    "playerName": "Pepe",
+    "salary": 3.5,
+    "country": "Portugal",
+    "position": "Defender",
+    "img": "https://i.ibb.co/kJG54fx/pepe-1.jpg",
+    "flag": "https://restcountries.eu/data/prt.svg"
+  },
+
+  {
+    "id": 18,
+    "playerName": "Kalidou Koulibaly",
+    "salary": 5,
+    "country": "France",
+    "position": "Defender",
+    "img": "https://i.ibb.co/MnkDJg2/Kalidou-Koulibaly.jpg",
+    "flag": "https://restcountries.eu/data/fra.svg"
+  }
+]

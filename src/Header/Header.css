@@ -1,0 +1,25 @@
+nav {
+  padding: 15px 0;
+  background-color: #321fdb;
+  box-shadow: 0 0 10px rgb(94, 94, 94);
+  color: #fff;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: content;
+  cursor: pointer;
+}
+.logo {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+nav ul .items {
+  display: inline-flex;
+}
+
+nav ul .items li {
+  padding: 0 10px;
+  font-size: 18px;
+}
